@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Aleks\source\repos\LifeStill\LifeStill\MyForm.h(500,29): warning C4552: '!=': result of expression not used
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LifeStill.vcxproj -> C:\Users\Aleks\source\repos\LifeStill\x64\Debug\LifeStill.exe
